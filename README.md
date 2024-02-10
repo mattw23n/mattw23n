@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Matt 👋
+
+#My name is Matt and I'm currently learning Computer Science 🤓
+#I'm quite new to programming and I hope to learn a lot from it!
+
+This page is still quite empty, so I'll update it when I get more things going haha.
+
+##Cheers!
+
+
 
 <!--
 **mattw23n/mattw23n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
