@@ -13,6 +13,13 @@ This page is still quite empty, so I'll update it when I get more things going <
 - lmao
 - lmfao
 
+<details>
+  <summary> Testing out the drop down feature lol</summary>
+  - i LOVE apples
+  - testing
+  - i LOVE peaches
+</details>
+
 
 # Cheers!
 
