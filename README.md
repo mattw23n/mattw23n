@@ -1,7 +1,7 @@
 
 
 # Hi there, I'm Matt 👋
-I'm learning Computer Science, and I like to make stuff online.
+I'm learning Computer Science, and I like to make stuff online. <br>
 Feel free to check out some of the stuff I've worked on!
 
 # Cheers!
